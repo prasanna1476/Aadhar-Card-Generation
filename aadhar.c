@@ -298,5 +298,5 @@ printf("Gender-%s\n",tp->gender);
 printf("Phone Number-%s\n",tp->pnumber);
 tp=tp->Next;
 }
-print("NULL\n");
+printf("NULL\n");
 }
